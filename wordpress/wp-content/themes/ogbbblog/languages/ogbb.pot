@@ -1,0 +1,913 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ogbb\n"
+"POT-Creation-Date: 2017-08-07 01:08+0300\n"
+"PO-Revision-Date: 2017-01-09 20:30+0545\n"
+"Last-Translator: Osman ÇAKIRSOY\n"
+"Language-Team: Osman ÇAKIRSOY <osmancakirsoy@hotmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20 404.php:28
+msgid "404 Error!"
+msgstr ""
+
+#: 404.php:32
+msgid ""
+"Oops! That page can&rsquo;t be found. It looks like nothing was found at "
+"this location. Maybe try a search instead?"
+msgstr ""
+
+#: author.php:21
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:175 inc/meta-boxes.php:32
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:177
+msgid "Display your widgets in the Right Sidebar Area."
+msgstr ""
+
+#: functions.php:186 inc/meta-boxes.php:37
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:188
+msgid "Display your widgets in the Left Sidebar Area."
+msgstr ""
+
+#: functions.php:197
+msgid "Header Sidebar"
+msgstr ""
+
+#: functions.php:199
+msgid "Display your widgets in the Header Sidebar Area."
+msgstr ""
+
+#: functions.php:208
+msgid "Magazine Slider Sidebar"
+msgstr ""
+
+#: functions.php:210
+msgid "Display your widgets in the Magazine Slider Sidebar Area."
+msgstr ""
+
+#: functions.php:219
+msgid "Magazine Beside Slider Sidebar"
+msgstr ""
+
+#: functions.php:221
+msgid "Display your widgets in the Magazine Beside Slider Sidebar Area."
+msgstr ""
+
+#: functions.php:230
+msgid "Magazine Top Content Sidebar"
+msgstr ""
+
+#: functions.php:232
+msgid "Display your widgets in the Magazine Top Content Sidebar Area."
+msgstr ""
+
+#: functions.php:241
+msgid "Magazine Middle Left Sidebar"
+msgstr ""
+
+#: functions.php:243
+msgid "Display your widgets in the Magazine Middle Left Sidebar Area."
+msgstr ""
+
+#: functions.php:252
+msgid "Magazine Middle Right Sidebar"
+msgstr ""
+
+#: functions.php:254
+msgid "Display your widgets in the Magazine Middle Right Sidebar Area."
+msgstr ""
+
+#: functions.php:263
+msgid "Magazine Bottom Content Sidebar"
+msgstr ""
+
+#: functions.php:265
+msgid "Display your widgets in the Magazine Bottom Content Sidebar Area."
+msgstr ""
+
+#: functions.php:274
+msgid "Content Top Sidebar"
+msgstr ""
+
+#: functions.php:276
+msgid "Display your widgets in the Content Top Sidebar Area."
+msgstr ""
+
+#: functions.php:285
+msgid "Content Bottom Sidebar"
+msgstr ""
+
+#: functions.php:287
+msgid "Display your widgets in the Content Bottom Sidebar Area."
+msgstr ""
+
+#: functions.php:296
+msgid "404 Sidebar"
+msgstr ""
+
+#: functions.php:298
+msgid "Display your widgets in the 404 Error Page Sidebar Area."
+msgstr ""
+
+#: functions.php:307
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: functions.php:309
+msgid "Display your widgets in the Contact Page Sidebar Area."
+msgstr ""
+
+#: functions.php:318
+msgid "Large Footer Sidebar"
+msgstr ""
+
+#: functions.php:320
+msgid "Display your widgets in the Large Footer Sidebar Area."
+msgstr ""
+
+#: functions.php:329
+msgid "Small Footer Sidebar One"
+msgstr ""
+
+#: functions.php:331
+msgid "Display your widgets in the Small Footer Sidebar Area One."
+msgstr ""
+
+#: functions.php:340
+msgid "Small Footer Sidebar Two"
+msgstr ""
+
+#: functions.php:342
+msgid "Display your widgets in the Small Footer Sidebar Area Two."
+msgstr ""
+
+#: functions.php:351
+msgid "Masonry Footer Sidebar"
+msgstr ""
+
+#: functions.php:353
+msgid "Display your widgets in the Masonry Footer Sidebar Area."
+msgstr ""
+
+#: functions.php:390
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:398
+msgctxt "Lobster Two font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:406
+msgctxt "Add new subset ( cyrillic, greek, vietnamese, devanagari )"
+msgid "no-subset"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:133
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "View Theme Demo"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Theme Important Links"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid ""
+"Change the Header Settings from here as you want to best suit your need."
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Check to show the date in header area."
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Small Info Text"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid ""
+"Write your custom text to display it in the header top bar. It also accepts "
+"the shortcodes too."
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Home Icon"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Check to add the home icon in the primary menu."
+msgstr ""
+
+#: inc/customizer.php:146 inc/extras.php:266
+msgid "Random Post"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Check to display the random post icon in the primary menu."
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Check to display the search icon in the primary menu."
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Menu Animation"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Check to enable the animation effect on the primary menu."
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Check to make the primary menu sticky."
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Choose the required option to make your menu sticky."
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Make the menu reveal on scroll up."
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Make the menu sticky, ie, always stick the menu in top."
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Breaking News"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Check to enable the breaking news section."
+msgstr ""
+
+#: inc/customizer.php:265
+msgid ""
+"Change the Design Settings from here as you want to best suit your need."
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Design Options"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Choose your site layout. The change is reflected in the whole site."
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Default layout"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid ""
+"Select default layout. This layout will be reflected in whole site archives, "
+"categories, search page etc. The layout for a single post and page can be "
+"controlled from the other options available in this theme."
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Default layout for pages only"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for the specific page."
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Default layout for single posts only"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid ""
+"Select default layout for single posts. This layout will be reflected in all "
+"single posts unless unique layout is set for the specific post."
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Write your custom css and design live."
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Check to enable the header image to link back to the home page."
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer.php:461
+msgid ""
+"Change the Additional Settings from here as you want to best suite your site."
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "Additional Options"
+msgstr ""
+
+#: inc/customizer.php:469
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:481
+msgid "Check to activate the related posts."
+msgstr ""
+
+#: inc/customizer.php:494
+msgid "Related Posts To Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:506
+msgid "Image Lightbox"
+msgstr ""
+
+#: inc/customizer.php:518
+msgid ""
+"Check to enable the lightbox feature for the featured images in single post "
+"page and pages."
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Social Links In Author Bio"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid ""
+"Check to enable the social links in the Author Bio section. For this to "
+"work, you need to add the URL of your social sites in the profile section. "
+"This theme supports WordPress SEO and All In One SEO Pack plugin for this "
+"feature."
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "Sticky Sidebar And Content Area"
+msgstr ""
+
+#: inc/customizer.php:558
+msgid "Check to enable the feature of sticky sidebar and content area."
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "Category Color Options"
+msgstr ""
+
+#: inc/customizer.php:569
+msgid ""
+"Change the color of each category items as you want to best suit your site "
+"requirement."
+msgstr ""
+
+#: inc/customizer.php:574
+msgid "Category Color Settings"
+msgstr ""
+
+#: inc/customizer.php:598
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/extras.php:81
+msgid "WordPress"
+msgstr ""
+
+#: inc/extras.php:83
+msgid "Bishal Napit"
+msgstr ""
+
+#: inc/extras.php:85
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: inc/extras.php:85
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/extras.php:85
+msgid "The NewsMag"
+msgstr ""
+
+#: inc/extras.php:85
+#, php-format
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/extras.php:336 inc/extras.php:338
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/extras.php:503
+msgid "<i class=\"fa fa-comment\"></i>Leave a reply"
+msgstr ""
+
+#: inc/extras.php:503
+msgid "<i class=\"fa fa-comment\"></i>1 Comment"
+msgstr ""
+
+#: inc/extras.php:503
+msgid "<i class=\"fa fa-comment\"></i>% Comments"
+msgstr ""
+
+#: inc/extras.php:503
+msgid "<i class=\"fa fa-comment\"></i>Comments Disabled"
+msgstr ""
+
+#: inc/extras.php:548
+#, php-format
+msgid "Follow %s on:"
+msgstr ""
+
+#: inc/extras.php:550
+msgid "Facebook"
+msgstr ""
+
+#: inc/extras.php:553
+msgid "Twitter"
+msgstr ""
+
+#: inc/extras.php:556
+msgid "Google Plus"
+msgstr ""
+
+#: inc/extras.php:683 template-parts/content-aside.php:25
+#: template-parts/content-audio.php:29 template-parts/content-chat.php:29
+#: template-parts/content-gallery.php:43 template-parts/content-image.php:61
+#: template-parts/content-link.php:29 template-parts/content-quote.php:29
+#: template-parts/content-status.php:34 template-parts/content-video.php:29
+#: template-parts/content.php:51
+#, php-format
+msgctxt "comments title"
+msgid "<i class=\"fa fa-comment\"></i> 1"
+msgid_plural "<i class=\"fa fa-comment\"></i> %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/meta-boxes.php:14 inc/meta-boxes.php:16
+msgid "Select Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:27
+msgid "Default Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:42
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/meta-boxes.php:47
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/related-posts.php:12
+msgid "Similar Articles"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Posted on:"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Written by:"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "<i class=\"fa fa-comment\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "Leave a reply"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "Comments Disabled"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:60
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:62
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69 template-parts/content-page.php:60
+#, php-format
+msgid "<i class=\"fa fa-edit\"></i>Edit %s"
+msgstr ""
+
+#: inc/widgets.php:12
+msgid "TNM: Random Posts Widget"
+msgstr ""
+
+#: inc/widgets.php:13
+msgid "Displays the random posts from your site."
+msgstr ""
+
+#: inc/widgets.php:22
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:26
+msgid "Number of random posts to display:"
+msgstr ""
+
+#: inc/widgets.php:100
+msgid "TNM: Tabbed Widget"
+msgstr ""
+
+#: inc/widgets.php:101
+msgid ""
+"Displays the popular posts, recent posts and the recent comments in the tabs."
+msgstr ""
+
+#: inc/widgets.php:109
+msgid "Number of popular posts, recent posts and comments to display:"
+msgstr ""
+
+#: inc/widgets.php:135
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets.php:136
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets.php:137
+msgid "Comment"
+msgstr ""
+
+#: inc/widgets.php:217
+msgid "says:"
+msgstr ""
+
+#: inc/widgets.php:221
+msgid "No Comments"
+msgstr ""
+
+#: inc/widgets.php:240
+msgid "TNM: Posts Slider Widget"
+msgstr ""
+
+#: inc/widgets.php:241
+msgid ""
+"Displays the latest posts or posts from certain category chosen to be used "
+"as the slider."
+msgstr ""
+
+#: inc/widgets.php:252 inc/widgets.php:373 inc/widgets.php:501
+#: inc/widgets.php:682 inc/widgets.php:863
+msgid "Show latest posts."
+msgstr ""
+
+#: inc/widgets.php:256 inc/widgets.php:377 inc/widgets.php:505
+#: inc/widgets.php:686 inc/widgets.php:867
+msgid "Show posts from a certain category."
+msgstr ""
+
+#: inc/widgets.php:261 inc/widgets.php:382 inc/widgets.php:510
+#: inc/widgets.php:691 inc/widgets.php:872
+msgid "Select the category:"
+msgstr ""
+
+#: inc/widgets.php:273 inc/widgets.php:394 inc/widgets.php:522
+#: inc/widgets.php:703 inc/widgets.php:884
+msgid "Number of posts to display:"
+msgstr ""
+
+#: inc/widgets.php:361
+msgid "TNM: Posts Grid Widget"
+msgstr ""
+
+#: inc/widgets.php:362
+msgid ""
+"Displays the latest posts or posts from certain category chosen to be used "
+"in beside the slider area."
+msgstr ""
+
+#: inc/widgets.php:477
+msgid "TNM: Posts One Column Widget"
+msgstr ""
+
+#: inc/widgets.php:478
+msgid ""
+"Displays the latest posts or posts from certain category chosen to display "
+"the posts in single column."
+msgstr ""
+
+#: inc/widgets.php:490 inc/widgets.php:671 inc/widgets.php:852
+#: inc/widgets.php:1011 inc/widgets.php:1094 inc/widgets.php:1179
+msgid "Title"
+msgstr ""
+
+#: inc/widgets.php:495 inc/widgets.php:676 inc/widgets.php:857
+msgid "Description"
+msgstr ""
+
+#: inc/widgets.php:658
+msgid "TNM: Posts Two Column Widget"
+msgstr ""
+
+#: inc/widgets.php:659
+msgid ""
+"Displays the latest posts or posts from certain category chosen to display "
+"the posts in double column."
+msgstr ""
+
+#: inc/widgets.php:839
+msgid "TNM: Posts Extended Widget"
+msgstr ""
+
+#: inc/widgets.php:840
+msgid ""
+"Displays the latest posts or posts from certain category chosen to display "
+"the posts and its excerpt."
+msgstr ""
+
+#: inc/widgets.php:1000
+msgid "TNM: 728 x 90 Advertisement Widget"
+msgstr ""
+
+#: inc/widgets.php:1001
+msgid ""
+"Add the required 728 x 90 advertisement in your site with the help of the "
+"image."
+msgstr ""
+
+#: inc/widgets.php:1016 inc/widgets.php:1099 inc/widgets.php:1186
+msgid "Advertisement Image Link"
+msgstr ""
+
+#: inc/widgets.php:1020 inc/widgets.php:1103 inc/widgets.php:1193
+msgid "Advertisement Image"
+msgstr ""
+
+#: inc/widgets.php:1028 inc/widgets.php:1111 inc/widgets.php:1203
+msgid "Choose image"
+msgstr ""
+
+#: inc/widgets.php:1028 inc/widgets.php:1111 inc/widgets.php:1203
+msgid "Use image"
+msgstr ""
+
+#: inc/widgets.php:1028 inc/widgets.php:1111 inc/widgets.php:1203
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets.php:1083
+msgid "TNM: 300 x 250 Advertisement Widget"
+msgstr ""
+
+#: inc/widgets.php:1084
+msgid ""
+"Add the required 300 x 250 advertisement in your site with the help of the "
+"image."
+msgstr ""
+
+#: inc/widgets.php:1166
+msgid "TNM: 125 x 125 Advertisement Widget"
+msgstr ""
+
+#: inc/widgets.php:1167
+msgid ""
+"Add the required 125 x 125 advertisement in your site with the help of the "
+"image."
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10 searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search for&hellip;"
+msgstr ""
+
+#: sidebar-left.php:25 sidebar.php:25
+msgid "Contact Page"
+msgstr ""
+
+#: sidebar-left.php:27
+msgid "Left"
+msgstr ""
+
+#: sidebar-left.php:32 sidebar.php:32
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar-left.php:33 sidebar.php:33
+#, php-format
+msgid ""
+"This is an example widget to show how the %1$s Sidebar looks by default. You "
+"can add custom widgets from the %2$swidgets screen%3$s in the admin area. If "
+"the custom widget is added in this sidebar, then, this will be replaced by "
+"those widgets."
+msgstr ""
+
+#: sidebar.php:27
+msgid "Right"
+msgstr ""
+
+#: single.php:39
+msgid "Next Post"
+msgstr ""
+
+#: single.php:39
+msgid "Next post:"
+msgstr ""
+
+#: single.php:40
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:40
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content-aside.php:55 template-parts/content-audio.php:65
+#: template-parts/content-chat.php:61 template-parts/content-gallery.php:79
+#: template-parts/content-image.php:100 template-parts/content-link.php:65
+#: template-parts/content-page.php:49 template-parts/content-quote.php:65
+#: template-parts/content-status.php:70 template-parts/content-video.php:65
+#: template-parts/content.php:98
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:75 template-parts/content-gallery.php:89
+#: template-parts/content-image.php:110 template-parts/content-link.php:75
+#: template-parts/content-quote.php:75 template-parts/content-status.php:80
+#: template-parts/content-video.php:75 template-parts/content.php:90
+#: template-parts/content.php:108
+msgid "Read More <i class=\"fa fa-arrow-circle-o-right\"></i>"
+msgstr ""
+
+#: template-parts/content-link.php:16
+msgid "Link"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
