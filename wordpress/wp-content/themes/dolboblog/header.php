@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
-	<meta charset="<?php bloginfo( 'charset' ); ?>">
+    <meta charset="<?php bloginfo( 'charset' ); ?>">
+    <title><?php bloginfo('name') ?> - <?php bloginfo('description') ?></title>
 <?php wp_head(); ?>
 <?php wp_enqueue_style( 'style', get_stylesheet_uri() ); ?>
 </head>
 <body <?php body_class(); ?> >
     <div class="wrapper">
         <header class="header">
+            
             <div class="header-wrap">
                 <?php if ( function_exists( 'the_custom_logo' ) && has_custom_logo() ) { ?>
                     <div class="logo"><?php if ( function_exists( 'the_custom_logo' ) ) {the_custom_logo();} ?> </div>
